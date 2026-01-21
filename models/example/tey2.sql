@@ -1,0 +1,1 @@
+SELECT * FROM dxc_orders a inner join spree_orders b on a.spree_order_id = b.id;
